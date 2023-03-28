@@ -1,7 +1,7 @@
 # ChatGPT API 활용한 웹 서비스 만들기
 (바닥부터 실전 서비스 배포까지) - 조코딩 ( 유튜브 live )
 
-[frontend](https://github.com/Dothur/chatKuromi-frontendv)
+[frontend](https://github.com/Dothur/chatKuromi-frontend)
 
 ---
 
