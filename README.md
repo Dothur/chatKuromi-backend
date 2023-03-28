@@ -28,6 +28,7 @@
 ---
 
 - notion 공부 기록
+
 https://study-react.notion.site/ChatGPT-API-live-d85f3f7ec0144355b0cf077e3cd05d6c
 
 ---
